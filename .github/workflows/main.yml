@@ -1,5 +1,3 @@
-d
-
 name: deploy-book
 # tomado de: https://jupyterbook.org/publish/gh-pages.html?highlight=github%20actions
 # Only run this when the master branch changes
